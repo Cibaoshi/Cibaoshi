@@ -34,7 +34,7 @@ Currently exploring programming through real projects and experiments with diffe
 
 ## 🚀 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=python,go,cs,ts,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,cs,html&theme=dark" />
 <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" />
 
 ## 📊 GitHub Analytics
