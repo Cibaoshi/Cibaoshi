@@ -42,9 +42,6 @@ Currently exploring programming through real projects and experiments with diffe
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Cibaoshi&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-</td>
-<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cibaoshi&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </td>
 </tr>
