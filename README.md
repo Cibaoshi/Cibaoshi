@@ -39,15 +39,39 @@ Currently exploring programming through real projects and experiments with diffe
 
 ## 📊 GitHub Analytics
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cibaoshi&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
+<td width="50%" align="center">
+<img
+  src="https://raw.githubusercontent.com/Cibaoshi/Cibaoshi/main/activity-graph-smart.svg"
+  height="150"
+  alt="GitHub Activity Graph"
+/>
 </td>
+
+<td width="50%" align="center">
+<img
+  src="https://streak-stats.demolab.com?user=Cibaoshi&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  height="150"
+  alt="GitHub Streak Stats"
+/>
+</td>
+
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cibaoshi&theme=tokyo-night&hide_border=true" width="100%" />
+<br/>
+
+<p align="center">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Cibaoshi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  height="150"
+  alt="GitHub Stats"
+/>
+</p>
+
+
 
 ## 📫 Contacts
 
