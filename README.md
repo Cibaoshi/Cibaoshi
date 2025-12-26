@@ -6,16 +6,11 @@
 <tr>
 <td width="65%" valign="top">
 
-<div style="
-background:#16161e;
-border-radius:18px;
-padding:22px;
-color:#c0caf5;
-">
+<div style="background:#16161e; border-radius:18px; padding:22px; color:#c0caf5;">
 
 ### ✨ About Me
 
-I am a software developer focused on learning and building practical solutions.  
+I am a software developer focused on learning and building practical solutions.<br/>
 Currently exploring programming through real projects and experiments with different technologies.
 
 </div>
@@ -23,14 +18,11 @@ Currently exploring programming through real projects and experiments with diffe
 </td>
 <td width="35%" valign="top" align="right">
 
-<img src="https://raw.githubusercontent.com/Cibaoshi/Cibaoshi/main/profile.jpg"
-     width="220"
-     style="border-radius:20px;" />
+<img src="https://raw.githubusercontent.com/Cibaoshi/Cibaoshi/main/profile.jpg" width="220" style="border-radius:20px;" />
 
 </td>
 </tr>
 </table>
-
 
 ## 🚀 Tech Stack & Tools
 
@@ -39,44 +31,34 @@ Currently exploring programming through real projects and experiments with diffe
 
 ## 📊 GitHub Analytics
 
-<table align="center" width="100%">
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Cibaoshi&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="50%" align="center">
-<img
-  src="https://raw.githubusercontent.com/Cibaoshi/Cibaoshi/main/activity-graph-smart.svg"
-  height="150"
-  alt="GitHub Activity Graph"
-/>
-</td>
-
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img
   src="https://streak-stats.demolab.com?user=Cibaoshi&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  height="150"
+  width="100%"
   alt="GitHub Streak Stats"
 />
 </td>
 
+
 </tr>
 </table>
-
-<br/>
-
-<p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Cibaoshi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  height="150"
-  alt="GitHub Stats"
-/>
-</p>
-
 
 
 ## 📫 Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=1a1b26)](https://t.me/@tosha_qq)
+[![Telegram](https://img.shields.io/badge/Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=1a1b26)](https://t.me/tosha_qq)
 [![Email](https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=1a1b26)](mailto:mrfrissik@gmail.com)
-[![X](https://img.shields.io/badge/X-7aa2f7?style=for-the-badge&logo=x&logoColor=1a1b26)](https://x.com/@OpssPi)
+[![X](https://img.shields.io/badge/X-7aa2f7?style=for-the-badge&logo=x&logoColor=1a1b26)](https://x.com/OpssPi)
 
 </div>
