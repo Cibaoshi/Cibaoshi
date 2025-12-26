@@ -42,13 +42,7 @@ Currently exploring programming through real projects and experiments with diffe
 <table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="50%" align="center" valign="top">
-<img
-  src="https://streak-stats.demolab.com?user=Cibaoshi&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  width="100%"
-  alt="GitHub Streak Stats"
-/>
-</td>
+
 
 
 </tr>
