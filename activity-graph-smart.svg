@@ -1,0 +1,64 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .bg {
+      fill: #1a1b26;
+    }
+
+    .frame {
+      fill: none;
+      stroke: #7aa2f7;
+      stroke-width: 2;
+      rx: 18;
+      opacity: 0.4;
+      transition: opacity 0.3s ease;
+    }
+
+    .text {
+      fill: #7aa2f7;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+      opacity: 0.9;
+    }
+
+    .subtext {
+      fill: #c0caf5;
+      font-size: 14px;
+      opacity: 0.7;
+    }
+
+    svg:hover .frame {
+      opacity: 1;
+    }
+
+    .pulse {
+      animation: pulse 2.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%   { opacity: 0.4; }
+      50%  { opacity: 1; }
+      100% { opacity: 0.4; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="220" rx="18" class="bg"></rect>
+
+  <!-- REAL GRAPH (tries to load) -->
+  <image href="https://github-readme-activity-graph.vercel.app/graph?username=Cibaoshi&amp;theme=tokyo-night&amp;hide_border=true" x="20" y="20" width="760" height="180" preserveAspectRatio="xMidYMid meet" onerror="this.style.display='none'"></image>
+
+  <!-- FALLBACK -->
+  <g class="pulse">
+    <text x="400" y="100" text-anchor="middle" class="text">
+      Contribution Graph
+    </text>
+    <text x="400" y="130" text-anchor="middle" class="subtext">
+      Loading or temporarily unavailable
+    </text>
+  </g>
+
+  <!-- Frame -->
+  <rect x="1" y="1" width="798" height="218" rx="18" class="frame"></rect>
+
+</svg>
