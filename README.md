@@ -4,7 +4,7 @@
 
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top" align="left">
 
 <div style="background:#16161e; border-radius:18px; padding:22px; color:#c0caf5;">
 
@@ -15,39 +15,35 @@ Currently exploring programming through real projects and experiments with diffe
 
 </div>
 
-</td>
-<td width="35%" valign="top" align="right">
-
-<img src="https://raw.githubusercontent.com/Cibaoshi/Cibaoshi/main/profile.jpg" width="220" style="border-radius:20px;" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 ## 🚀 Tech Stack & Tools
 
 <img src="https://skillicons.dev/icons?i=python,go,cs,html&theme=dark" />
 <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" />
 
-## 📊 GitHub Analytics
+</td>
+<td width="40%" valign="top" align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Cibaoshi&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/Cibaoshi/Cibaoshi/main/profile.jpg" width="220" style="border-radius:20px; margin-bottom: 15px;" />
 
-<table align="center" width="100%" style="border-collapse: collapse;">
-<tr>
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316fs2ursg74zmeurn4zqwbykbsm&cover_image=true&theme=default&show_offline=false&background_color=1a1b26&interchange=false&profanity=false&bar_color_cover=false" width="220" />
+</a>
 
-
-
-
+</td>
 </tr>
 </table>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Cibaoshi&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" 
+    width="100%" 
+    alt="GitHub Activity Graph" 
+  />
+</p>
 
 ## 📫 Contacts
 
