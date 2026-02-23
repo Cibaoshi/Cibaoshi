@@ -27,11 +27,9 @@ Currently exploring programming through real projects and experiments with diffe
 
 <img src="https://raw.githubusercontent.com/Cibaoshi/Cibaoshi/main/profile.jpg" width="220" style="border-radius:20px;" />
 
-## <div style="height: 15px;"></div>
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316fs2ursg74zmeurn4zqwbykbsm&cover_image=true&theme=default&show_offline=false&background_color=1a1b26&interchange=false&profanity=false&bar_color_cover=false" width="220" style="border-radius:12px;" />
-</a>
+
+
 
 </td>
 </tr>
