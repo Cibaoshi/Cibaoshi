@@ -49,8 +49,8 @@ Currently exploring programming through real projects and experiments with diffe
 
 ## 📫 Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=1a1b26)](https://t.me/tosha_qq)
+[![Telegram](https://img.shields.io/badge/Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=1a1b26)](https://t.me/VlessRIP)
 [![Email](https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=1a1b26)](mailto:mrfrissik@gmail.com)
-[![X](https://img.shields.io/badge/X-7aa2f7?style=for-the-badge&logo=x&logoColor=1a1b26)](https://x.com/OpssPi)
+[![X](https://img.shields.io/badge/X-7aa2f7?style=for-the-badge&logo=x&logoColor=1a1b26)](https://x.com/Oyora_)
 
 </div>
